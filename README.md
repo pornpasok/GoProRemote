@@ -6,6 +6,6 @@
 # FB: pornpasok                        #
 # E-Mail: ton350d@gmail.com            #
 # Thanks: GoPro API					   #
-# https://github.com/KonradIT          #
-# /goprowifihack/blob/master/HERO4.md  #
+# https://github.com/KonradIT/goprowifihack/blob/master/HERO4.md #
+# Test on LinkIt 7688				   #
 ########################################
